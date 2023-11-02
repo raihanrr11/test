@@ -1,0 +1,2 @@
+# Rumus Jarak
+Kecepatan * Waktu
